@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to Install
+
+Clone https://github.com/miftakhulaziz03/skyworth-app.git
+Run : npm install
+Run : npm start or yarn start
+
 ## Available Scripts
 
 In the project directory, you can run:
