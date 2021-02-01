@@ -8,6 +8,8 @@ import {
   Route
 } from "react-router-dom";
 
+
+// import from ./src/component/
 import Navbar from "./component/Header/Navbar"
 import Main  from "./component/Main/main"
 import Footer from "./component/Footer/Footer"
