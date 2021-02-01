@@ -1,6 +1,7 @@
-import React, { Component } from 'react';
+// import logo from './logo.svg';
 import './App.css';
 
+<<<<<<< HEAD
 
 import {
   BrowserRouter as Router,
@@ -41,6 +42,28 @@ class App extends Component {
     );
   }
   
+=======
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <p>
+          Welcome to Skyworth App
+          {/* Edit <code>src/App.js</code> and save to reload. */}
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
+>>>>>>> parent of 7866404... update first landing page
 }
 
 export default App;
